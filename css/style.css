@@ -314,7 +314,7 @@ nav ul li a:hover::after {
     animation: git 3s;
 }
 
-.skill-bar .bar .c {
+.skill-bar .bar .dart {
     width: 50%;
     animation: c 4s;
 }
